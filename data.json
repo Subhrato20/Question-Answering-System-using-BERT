@@ -1,0 +1,317 @@
+[
+    {
+      "description": "The sun is a star at the center of our solar system.",
+      "question": "What is the sun?",
+      "answer": "Central star of solar system"
+    },
+    {
+      "description": "The Great Wall of China is a historic fortification.",
+      "question": "What is the Great Wall?",
+      "answer": "Historic Chinese fortification"
+    },
+    {
+      "description": "Water consists of two hydrogen atoms and one oxygen atom.",
+      "question": "What is water made of?",
+      "answer": "Hydrogen and oxygen"
+    },
+    {
+      "description": "The Taj Mahal is a white marble mausoleum in India.",
+      "question": "Where is the Taj Mahal?",
+      "answer": "In India"
+    },
+    {
+      "description": "The moon orbits the Earth.",
+      "question": "What orbits the Earth?",
+      "answer": "Moon"
+    },
+    {
+      "description": "Elephants are large mammals with tusks and a trunk.",
+      "question": "What are elephants?",
+      "answer": "Large mammals with tusks"
+    },
+    {
+      "description": "Mars is the fourth planet from the sun in our solar system.",
+      "question": "Which planet is fourth?",
+      "answer": "Mars"
+    },
+    {
+      "description": "The Pacific Ocean is the largest and deepest ocean on Earth.",
+      "question": "What is the largest ocean?",
+      "answer": "Pacific Ocean"
+    },
+    {
+      "description": "Beethoven was a famous German composer and pianist.",
+      "question": "Who was Beethoven?",
+      "answer": "German composer and pianist"
+    },
+    {
+      "description": "Diamonds are a form of carbon with a crystal lattice structure.",
+      "question": "What are diamonds made of?",
+      "answer": "Carbon with crystal structure"
+    },
+    {
+      "description": "The Sahara is the largest hot desert in the world.",
+      "question": "What is the largest hot desert?",
+      "answer": "Sahara"
+    },
+    {
+      "description": "Jupiter is the largest planet in our solar system.",
+      "question": "Which planet is the largest?",
+      "answer": "Jupiter"
+    },
+    {
+      "description": "The Mona Lisa is a famous portrait painting by da Vinci.",
+      "question": "Who painted the Mona Lisa?",
+      "answer": "Da Vinci"
+    },
+    {
+      "description": "The Nile River is the longest river in Africa.",
+      "question": "What is the longest river in Africa?",
+      "answer": "Nile River"
+    },
+    {
+      "description": "Photosynthesis is the process by which plants make their own food.",
+      "question": "What is photosynthesis?",
+      "answer": "Plants making own food"
+    },
+    {
+      "description": "The Statue of Liberty is a symbol of freedom in the United States.",
+      "question": "What does the Statue of Liberty symbolize?",
+      "answer": "Freedom in the U.S"
+    },
+    {
+      "description": "Antarctica is the southernmost continent on Earth.",
+      "question": "Which continent is the southernmost?",
+      "answer": "Antarctica"
+    },
+    {
+      "description": "The Beatles were a famous English rock band.",
+      "question": "Who were The Beatles?",
+      "answer": "English rock band"
+    },
+    {
+      "description": "The Earth's atmosphere is composed of nitrogen, oxygen, and other gases.",
+      "question": "What is Earth's atmosphere made of?",
+      "answer": "Nitrogen, oxygen, other gases"
+    },
+    {
+      "description": "Romeo and Juliet is a tragic play written by William Shakespeare.",
+      "question": "Who wrote Romeo and Juliet?",
+      "answer": "William Shakespeare"
+    },
+    {
+      "description": "The Red Sea is a seawater inlet of the Indian Ocean.",
+      "question": "What is the Red Sea?",
+      "answer": "Inlet of Indian Ocean"
+    },
+    {
+      "description": "The human heart pumps blood throughout the body.",
+      "question": "What does the heart do?",
+      "answer": "Pumps blood"
+    },
+    {
+      "description": "Oxygen is essential for human and animal respiration.",
+      "question": "What is essential for respiration?",
+      "answer": "Oxygen"
+    },
+    {
+      "description": "The Internet is a global network of interconnected computers.",
+      "question": "What is the Internet?",
+      "answer": "Global computer network"
+    },
+    {
+      "description": "The Sahara Desert is characterized by vast sand dunes and arid conditions.",
+      "question": "What characterizes the Sahara Desert?",
+      "answer": "Vast sand dunes, arid conditions"
+    },
+    {
+      "description": "Honeybees play a crucial role in pollination and ecosystem health.",
+      "question": "What is the role of honeybees?",
+      "answer": "Crucial for pollination, ecosystem"
+    },
+    {
+      "description": "The Eiffel Tower is an iconic iron lattice structure in Paris.",
+      "question": "What is the Eiffel Tower?",
+      "answer": "Iconic Parisian lattice structure"
+    },
+    {
+      "description": "A black hole is a region of spacetime exhibiting gravitational collapse.",
+      "question": "What is a black hole?",
+      "answer": "Gravitational collapse in spacetime"
+    },
+    {
+      "description": "The Sydney Opera House is a famous architectural landmark in Australia.",
+      "question": "Where is the Sydney Opera House?",
+      "answer": "In Australia, architectural landmark"
+    },
+    {
+      "description": "The Pacific Ring of Fire is an area with a lot of earthquakes and volcanic eruptions.",
+      "question": "What is the Pacific Ring of Fire?",
+      "answer": "Area with earthquakes, volcanic eruptions"
+    },
+    {
+      "description": "Mozart was a prolific and influential composer of the Classical era.",
+      "question": "Who was Mozart?",
+      "answer": "Influential Classical composer"
+    },
+    {
+      "description": "Photosynthesis converts sunlight into chemical energy in plants.",
+      "question": "What does photosynthesis convert sunlight into?",
+      "answer": "Chemical energy in plants"
+    },
+    {
+      "description": "The Roman Colosseum is an ancient amphitheater in Rome, Italy.",
+      "question": "Where is the Roman Colosseum?",
+      "answer": "In Rome, Italy"
+    },
+    {
+      "description": "The Pacific Ocean is larger than all the Earth's landmass combined.",
+      "question": "What is larger than all Earth's landmass combined?",
+      "answer": "Pacific Ocean"
+    },
+    {
+        "description": "The Pyramids of Giza are ancient structures in Egypt.",
+        "question": "Where are the Pyramids of Giza?",
+        "answer": "In Egypt, ancient structures"
+      },
+      {
+        "description": "Penguins are flightless birds that inhabit the Southern Hemisphere.",
+        "question": "Where do penguins live?",
+        "answer": "Southern Hemisphere, flightless birds"
+      },
+      {
+        "description": "E=mc^2 is Einstein's famous equation related to mass-energy equivalence.",
+        "question": "What is Einstein's famous equation?",
+        "answer": "E=mc^2, mass-energy equivalence"
+      },
+      {
+        "description": "The Mona Lisa is displayed at the Louvre Museum in Paris.",
+        "question": "Where is the Mona Lisa displayed?",
+        "answer": "Louvre Museum, Paris"
+      },
+      {
+        "description": "Bananas are yellow fruits that grow on flowering plants in tropical regions.",
+        "question": "What color are bananas?",
+        "answer": "Yellow, tropical regions"
+      },
+      {
+        "description": "The Pacific Ring of Fire is a horseshoe-shaped area with high seismic activity.",
+        "question": "What is the Pacific Ring of Fire known for?",
+        "answer": "Horseshoe-shaped, high seismic activity"
+      },
+      {
+        "description": "The English Channel separates southern England from northern France.",
+        "question": "What does the English Channel separate?",
+        "answer": "Southern England, northern France"
+      },
+      {
+        "description": "Pluto used to be considered the ninth planet in our solar system.",
+        "question": "Which planet used to be the ninth?",
+        "answer": "Pluto"
+      },
+      {
+        "description": "The Leaning Tower of Pisa is a famous leaning bell tower in Italy.",
+        "question": "Where is the Leaning Tower of Pisa?",
+        "answer": "Italy, leaning bell tower"
+      },
+      {
+        "description": "The Sahara Desert is home to diverse flora and fauna adapted to arid conditions.",
+        "question": "What is the Sahara Desert home to?",
+        "answer": "Diverse flora, fauna adapted to arid conditions"
+      },
+      {
+        "description": "Marsupials, like kangaroos, carry and nurse their undeveloped young in pouches.",
+        "question": "What animals have pouches for their young?",
+        "answer": "Marsupials, kangaroos"
+      },
+      {
+        "description": "Vincent van Gogh was a Dutch post-impressionist painter known for Starry Night.",
+        "question": "Who painted Starry Night?",
+        "answer": "Vincent van Gogh"
+      },
+      {
+        "description": "Tornadoes are rapidly rotating columns of air extending between a thundercloud and the Earth's surface.",
+        "question": "What are tornadoes?",
+        "answer": "Rotating air columns, extend to Earth's surface"
+      },
+      {
+        "description": "The Pacific Ocean is the deepest ocean on Earth, reaching depths of over 10,000 meters.",
+        "question": "Which is the deepest ocean?",
+        "answer": "Pacific Ocean, depths over 10,000 meters"
+      },
+      {
+        "description": "The human brain is a highly complex organ responsible for cognition and emotion.",
+        "question": "What is the human brain responsible for?",
+        "answer": "Cognition, emotion"
+      },
+      {
+        "description": "The Internet was developed to facilitate communication and information sharing globally.",
+        "question": "What was the purpose of developing the Internet?",
+        "answer": "Facilitate communication, global information sharing"
+      },
+      {
+        "description": "Machu Picchu is an ancient Inca citadel located in the Andes Mountains of Peru.",
+        "question": "Where is Machu Picchu located?",
+        "answer": "Andes Mountains, Peru"
+      },
+      {
+        "description": "The Dead Sea is a saltwater lake bordered by Jordan to the east and Israel to the west.",
+        "question": "What countries border the Dead Sea?",
+        "answer": "Jordan to the east, Israel to the west"
+      },
+      {
+        "description": "The concept of gravity was popularized by Sir Isaac Newton's law of universal gravitation.",
+        "question": "Who popularized the concept of gravity?",
+        "answer": "Sir Isaac Newton"
+      },
+      {
+        "description": "The Sahara Desert has been used for filming scenes set on alien planets in various movies.",
+        "question": "Where have scenes set on alien planets been filmed?",
+        "answer": "Sahara Desert"
+      },
+      {
+        "description": "The Arctic Circle is an imaginary line that marks the northernmost point where the sun doesn't set on the winter solstice.",
+        "question": "What is the Arctic Circle known for during the winter solstice?",
+        "answer": "Sun doesn't set"
+      },
+      {
+        "description": "The human skeleton is composed of 206 bones that provide structure and support for the body.",
+        "question": "How many bones are in the human skeleton?",
+        "answer": "206 bones"
+      },
+      {
+        "description": "The red panda is a small mammal native to the eastern Himalayas and southwestern China.",
+        "question": "Where is the red panda native to?",
+        "answer": "Eastern Himalayas, southwestern China"
+      },
+      {
+        "description": "The Gutenberg Bible was the first major book printed using mass-produced movable metal type in the 15th century.",
+        "question": "What was the first major book printed using movable metal type?",
+        "answer": "Gutenberg Bible"
+      },
+      {
+        "description": "Thunderstorms are characterized by lightning, thunder, heavy rain, and strong winds.",
+        "question": "What are thunderstorms characterized by?",
+        "answer": "Lightning, thunder, heavy rain, strong winds"
+      },
+      {
+        "description": "The Sahara Desert has a temperature range from extremely hot during the day to very cold at night.",
+        "question": "What is the temperature range in the Sahara Desert?",
+        "answer": "Extremely hot during the day, very cold at night"
+      },
+      {
+        "description": "The Great Barrier Reef is the world's largest coral reef system, located in the Coral Sea off the coast of Australia.",
+        "question": "Where is the Great Barrier Reef located?",
+        "answer": "Coral Sea, off the coast of Australia"
+      },
+      {
+        "description": "The human eye can perceive a spectrum of colors ranging from violet to red.",
+        "question": "What colors can the human eye perceive?",
+        "answer": "Violet to red"
+      },
+      {
+        "description": "The Milky Way is a barred spiral galaxy that contains our solar system.",
+        "question": "What is the Milky Way?",
+        "answer": "Barred spiral galaxy"
+      }
+]
